@@ -1,4 +1,4 @@
-const cacheName = "CodeCL-Le jeu de la vie-1.0";
+const cacheName = "CodeCL-Le jeu de la vie-1.1";
 const contentToCache = [
     "Build/Exe WebGL.loader.js",
     "Build/Exe WebGL.framework.js",
